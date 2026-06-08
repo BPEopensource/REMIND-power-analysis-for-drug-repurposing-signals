@@ -6,7 +6,7 @@ The framework mimics the dimensionality of large healthcare databases by simulat
 
 The repository allows evaluation of key performance metrics, including:
 - **Sensitivity (SE):** the probability of correctly identifying a true drug signal;
-- **Number of False Signal (NFS):** the number or proportion of falsely selected drug exposures not truly associated with the outcome.
+- **Mean number of False Signal (MFS):** the number or proportion of falsely selected drug exposures not truly associated with the outcome.
 
 Different modeling choices and study design parameters can be explored, including:
 - sample size;
