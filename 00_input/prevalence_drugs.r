@@ -15,7 +15,7 @@
 library(data.table)
 
 # ---- load data
-ameli_file <- "input/NB_2024_atc5_age_sexe.CSV"
+ameli_file <- "00_input/NB_2024_atc5_age_sexe.CSV"
 ## File: NB_2024_atc5_age_sexe.CSV
 ## Columns (typical):
 ##  - ATC5   : ATC level-5 code
